@@ -52,7 +52,7 @@ if (isset($_POST['submit'])) {
 			<div class="user-box">
 				<button name="submit" class="btn">Login</button>
 			</div>
-			<p class="login-register-text">Don't have an account? <a href="register.php">Sign Up</a></p>
+			<p class="login-register-text">Don't have an account? <a href="register.php">Register</a></p>
 		</form>
 	</div>
 </body>
